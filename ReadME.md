@@ -1,0 +1,1 @@
+This code is purposed and intended to look at the available loan list, and both filter loans by cost, and then populate those loans based off of the cost to a new list. In addition, the program will only filter loans that are 500$ or less, and if it makes sense to purchase loans based off of the intial cost, and potential return.
